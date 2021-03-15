@@ -1,0 +1,10 @@
+{
+  "name": "fetch-js-from-cdn",
+  "version": "0.2.0",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": "git@github.com:wangsijie/fetch-js-from-cdn.git",
+  "author": "wangsijie <i@sijie.wang>",
+  "license": "MIT",
+  "private": false
+}
